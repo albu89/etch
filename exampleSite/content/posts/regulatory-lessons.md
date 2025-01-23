@@ -1,6 +1,6 @@
 +++
 author = "Alexander Büsser"
-title = "Quality"
+title = "Building a Quality Department for Regulatory-Grade AI Products: Lessons from a Product & Engineering Organization"
 date = "2025-01-23"
 description = "Lorem Ipsum Dolor Si Amet"
 tags = [
@@ -8,8 +8,6 @@ tags = [
     "ai",
 ]
 +++
-
-
 
 
 
