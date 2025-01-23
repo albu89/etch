@@ -10,6 +10,8 @@ tags = [
 +++
 
 
+![Banner](images/batman.png)
+
 As scientists and engineers we are driven to create products that solve meaningful problems. But in healthcare, solving problems isn’t enough—you also need to meet the rigorous demands of regulators to ensure your product reaches patients safely and effectively. No matter how innovative or effective your solution is, it won’t see the light of day without rigorous adherence to regulatory standards. Here’s what we’ve learned along the way.
 
 ## Regulatory and Quality: The Unsung Heroes of Innovation
