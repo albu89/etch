@@ -15,7 +15,8 @@ Regulatory bodies, such as the FDA or European Notified Bodies, exist to safegua
 1.	Prove that your development processes are reproducible and predictable.
 2.	Demonstrate with evidence that your product meets high standards of safety and efficacy.
 This applies not just to AI models but to every component of your product. In intermediate and high-risk product classes, both the product and the development processes must be certified before you can launch. 
-Framing the Right Questions
+
+## Framing the Right Questions
 When establishing quality systems, the mindset you adopt matters. The two questions that you may ask yourself:
 -	How do we design our manufacturing or software development to meet regulatory requirements?
 -	How do we design our processes to create and maintain the best possible product, measured by safety and efficacy?
@@ -24,7 +25,8 @@ While these questions seem aligned, they often lead to different approaches. In 
 
 ## How to get started
 For any healthcare product, the quality journey starts with understanding the standards that apply. Instead of drowning in hundreds of pages of standards, we focused on mastering their principles. Tools like OpenRegulatory’s Wizard were a lifesaver, highlighting the most relevant sections and providing templates for SOPs and records.
-Documentation: Part of the Product, Not an Afterthought
+
+## Documentation: Part of the Product, Not an Afterthought
 SOPs, records, and technical files aren’t just “paperwork”—they are integral parts of your product. They provide the evidence needed to show that your product does what it claims to do, safely and effectively.
 We made a deliberate effort to treat documentation with the same care as our AI models, infrastructure, and user interfaces. SOPs were written to be clear and concise, ensuring that every team member—not just regulatory experts—could understand and follow them.
 By involving our scientists and engineers in defining these processes, we ensured they were practical, effective, and aligned with how we worked.
